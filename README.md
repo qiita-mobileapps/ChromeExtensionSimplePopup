@@ -12,13 +12,13 @@ This is a very simple code to call the Chrome extension's popup screen from a bu
 3. When you click the 'Open Extension Popup' button in index.html, a popup screen is displayed.
 
 ### About the Installation of Live Server.
-1. Click on 'Extension' from the menu.
+1. Click on 'Extension' from the menu.  
 ![Extension01](./git_image/live-server-01.png)
 
-2. search for 'LiveServer,' and install it.
+2. search for 'LiveServer,' and install it.  
 ![Extension02](./git_image/live-server-02.png)
 
-3. When you click 'Go Live' at the bottom of the screen, a web server will start.
+3. When you click 'Go Live' at the bottom of the screen, a web server will start.  
 ![Extension03](./git_image/live-server-03.png)
 
 ### About the Installation of the simple Popup app to Chrome extension.
